@@ -1,11 +1,11 @@
-# Verify and troubleshoot your environment setup on macOS
+# Verify and Troubleshoot your Environment Setup on macOS
 
-## Action item
+## Action Item
 
 1. Open your "Terminal" application using "Spotlight Search"
 2. Type `curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/manual-setup-check.sh | zsh 2> /dev/null`
 
-## Check your work
+## Check Your Work
 
 If all checks pass, you have completed your environment setup and are ready to move on!
 
