@@ -1,4 +1,4 @@
-# Verify and Troubleshoot your Environment Setup on macOS
+# Verify and Troubleshoot your macOS Environment Setup 
 
 ## Action Item
 
