@@ -1,16 +1,15 @@
-### Verify Installations
+# Verify and troubleshoot your environment setup
 
-To verify that you've got everything installed, run the following command in
-your terminal:
+## Action item
 
-```sh
-curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/manual-setup-check.sh | bash 2> /dev/null
-```
+1. Open your "Terminal" application using "Spotlight Search"
+2. Type `curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/manual-setup-check.sh | zsh 2> /dev/null`
 
-This script will verify that everything you need is installed. If all checks pass,
-you have completed the setup process and are ready to move on!
+## Check your work
 
-## Troubleshooting
+If all checks pass, you have completed your environment setup and are ready to move on!
+
+<!-- ## Troubleshooting
 
 Below are some options to try for specific issues.
 
@@ -121,4 +120,4 @@ This error is typically due to issues in the `~/.learn-config` file.
     is valid and has your computer's username after `/Users/`. You can confirm this
     name by running `echo $HOME`. 
 
-3.  Save the `.learn-config` file and try running `learn whoami`. 
+3.  Save the `.learn-config` file and try running `learn whoami`.  -->
