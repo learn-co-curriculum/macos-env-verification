@@ -3,7 +3,7 @@
 ## Action Item
 
 1. Open your "Terminal" application using "Spotlight Search"
-2. Type `curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/manual-setup-check.sh | zsh 2> /dev/null`
+2. Type `curl -so- https://raw.githubusercontent.com/learn-co-curriculum/flatiron-manual-setup-validator/master/mac-manual-setup-validator.sh | zsh 2> /dev/null`
 
 ## Check Your Work
 
