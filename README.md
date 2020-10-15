@@ -9,6 +9,10 @@
 
 If all checks pass, you have completed your environment setup and are ready to move on!
 
+If something does not pass, that is okay. Revisit the installation instructions for the
+item that did not pass. If you are able to run the commands listed in
+the **Check Your Work** section for that item, this may just be an issue with the validator.
+
 <!-- ## Troubleshooting
 
 Below are some options to try for specific issues.
